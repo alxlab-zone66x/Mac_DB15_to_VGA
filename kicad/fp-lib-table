@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name project)(type KiCad)(uri ${KIPRJMOD}/project.pretty)(options "")(descr ""))
+  (lib (name snapeda)(type KiCad)(uri ${KIPRJMOD}/snapeda.pretty)(options "")(descr ""))
+)

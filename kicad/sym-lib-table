@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name snapeda)(type Legacy)(uri ${KIPRJMOD}/snapeda.pretty/snapeda.lib)(options "")(descr ""))
+  (lib (name project)(type Legacy)(uri ${KIPRJMOD}/project.lib)(options "")(descr ""))
+)

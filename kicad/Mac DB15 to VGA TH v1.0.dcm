@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP Mac_DB15_Male_MountingHoles
+D 15-pin male D-SUB connector (low-density/2 columns), Mounting Hole
+K male D-SUB connector
+F  ~
+$ENDCMP
+#
+$CMP VGA_DB15_Female_HighDensity_MountingHoles
+D 15-pin female D-SUB connector, High density (3 columns), Triple Row, Generic, VGA-connector, Mounting Hole
+K connector db15 female D-SUB VGA
+F  ~
+$ENDCMP
+#
+#End Doc Library
