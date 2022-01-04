@@ -12,8 +12,8 @@ This is a classic Macintosh DB15 video out to VGA adapter. It's uses the same di
 
 | Quantity | Description                | Designators            | Product Number   | Datasheet                                                    |
 | :------- | -------------------------- | ---------------------- | ---------------- | ------------------------------------------------------------ |
-| 1        | DB15                       | J1                     | ID15S33E4GX00LF  | [pdf](docs/datasheets/J1_c-dd-0031-1304190.pdf)              |
-| 1        | HD15                       | J2                     | HD15-SN-24       | [pdf](docs/datasheets/J2_hd15-sn-24-data-sheet.pdf)          |
+| 1        | DB15                       | J1                     | A-DS 15 A/KG-T4S | [pdf](docs/datasheets/J1_ASS_4888_CO.pdf)                    |
+| 1        | HD15                       | J2                     | HD15-SN-25       | [pdf](docs/datasheets/J2_hdxx-sn-25-data-sheet.pdf)          |
 | 2        | Dip switch SPST 8 position | SWA1, SWB1             | DS04-254-1L-08BK | [pdf](docs/datasheets/SWA1_SWB1_ds04-254.pdf)                |
 | 6        | Diode 1N4148 DO-35         | D1, D2, D3, D4, D5, D6 | 1N4148           | [pdf](docs/datasheets/D1_D2_D3_D4_D5_D6_1N914_D-2309448.pdf) |
 
