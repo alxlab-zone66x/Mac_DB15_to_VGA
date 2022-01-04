@@ -4,17 +4,18 @@
 
 This is a classic Macintosh DB15 video out to VGA adapter. It's uses the same dip switch settings as the Sony MacView and Unimac 82D.
 
-[Dip Switch Settings](/docs/manuals)
+[Dip Switch Settings](docs/manuals)
 
 
 
 ## Bill of Materials
 
-| Quantity | Designators | Product Number   | Datasheet                                            |
-| :------- | ----------- | ---------------- | ---------------------------------------------------- |
-| 1        | J1          | ID15S33E4GX00LF  | [pdf](/docs/datasheets/J1_c-dd-0031-1304190.pdf)     |
-| 1        | J2          | HD15-SN-24       | [pdf](/docs/datasheets/J2_hd15-sn-24-data-sheet.pdf) |
-| 2        | SWA1, SWB1  | DS04-254-1L-08BK | [pdf](/docs/datasheets/SWA1_SWB1_ds04-254.pdf)       |
+| Quantity | Description                | Designators            | Product Number   | Datasheet                                                    |
+| :------- | -------------------------- | ---------------------- | ---------------- | ------------------------------------------------------------ |
+| 1        | DB15                       | J1                     | ID15S33E4GX00LF  | [pdf](docs/datasheets/J1_c-dd-0031-1304190.pdf)              |
+| 1        | HD15                       | J2                     | HD15-SN-24       | [pdf](docs/datasheets/J2_hd15-sn-24-data-sheet.pdf)          |
+| 2        | Dip switch SPST 8 position | SWA1, SWB1             | DS04-254-1L-08BK | [pdf](docs/datasheets/SWA1_SWB1_ds04-254.pdf)                |
+| 6        | Diode 1N4148 DO-35         | D1, D2, D3, D4, D5, D6 | 1N4148           | [pdf](docs/datasheets/D1_D2_D3_D4_D5_D6_1N914_D-2309448.pdf) |
 
 
 
@@ -52,5 +53,5 @@ Join us in #skunkworks on [Discord](https://discord.gg/GKcvtgU7P9) to help make 
 
 ## Special Thanks
 
- [Drake](https://tinkerdifferent.com/members/drake.14/), [fehervaria](https://tinkerdifferent.com/members/fehervaria.16/)
+ [Drake](https://tinkerdifferent.com/members/drake.14/), [fehervaria](https://tinkerdifferent.com/members/fehervaria.16/), [Stephen](https://tinkerdifferent.com/members/stephen.12/)
 
