@@ -4,11 +4,21 @@
 
 This is a classic Macintosh DB15 video out to VGA adapter. It's uses the same dip switch settings as the Sony MacView and Unimac 82D.
 
-[Dip Switch Settings](docs/manuals)
+Dip Switch Settings](docs/manuals)
+
+
+
+The newest versions of the adapter, v1.2, come in 3 flavors now. 
+
+**TH** is all through-hole components like v1.0.
+**MX** has SMD diodes. The rest are through-hole components.
+**SM** has SMD diodes and DIP switches. The rest are through-hole components.
 
 
 
 ## Bill of Materials
+
+### v1.0 TH and v1.2 TH
 
 | Quantity | Description                | Designators            | Product Number   | Datasheet                                                    |
 | :------- | -------------------------- | ---------------------- | ---------------- | ------------------------------------------------------------ |
@@ -16,6 +26,24 @@ This is a classic Macintosh DB15 video out to VGA adapter. It's uses the same di
 | 1        | HD15                       | J2                     | HD15-SN-25       | [pdf](docs/datasheets/J2_hdxx-sn-25-data-sheet.pdf)          |
 | 2        | Dip switch SPST 8 position | SWA1, SWB1             | DS04-254-1L-08BK | [pdf](docs/datasheets/SWA1_SWB1_ds04-254.pdf)                |
 | 6        | Diode 1N4148 DO-35         | D1, D2, D3, D4, D5, D6 | 1N4148           | [pdf](docs/datasheets/D1_D2_D3_D4_D5_D6_1N914_D-2309448.pdf) |
+
+### v1.2 MX
+
+| Quantity | Description                | Designators            | Product Number   | Datasheet                                           |
+| :------- | -------------------------- | ---------------------- | ---------------- | --------------------------------------------------- |
+| 1        | DB15                       | J1                     | A-DS 15 A/KG-T4S | [pdf](docs/datasheets/J1_ASS_4888_CO.pdf)           |
+| 1        | HD15                       | J2                     | HD15-SN-25       | [pdf](docs/datasheets/J2_hdxx-sn-25-data-sheet.pdf) |
+| 2        | Dip switch SPST 8 position | SWA1, SWB1             | DS04-254-1L-08BK | [pdf](docs/datasheets/SWA1_SWB1_ds04-254.pdf)       |
+| 6        | Diode 1N4148 SOD-123       | D1, D2, D3, D4, D5, D6 |                  |                                                     |
+
+### v1.2 SM
+
+| Quantity | Description                    | Designators            | Product Number   | Datasheet                                           |
+| :------- | ------------------------------ | ---------------------- | ---------------- | --------------------------------------------------- |
+| 1        | DB15                           | J1                     | A-DS 15 A/KG-T4S | [pdf](docs/datasheets/J1_ASS_4888_CO.pdf)           |
+| 1        | HD15                           | J2                     | HD15-SN-25       | [pdf](docs/datasheets/J2_hdxx-sn-25-data-sheet.pdf) |
+| 2        | Dip switch SPST 8 position SMD | SWA1, SWB1             |                  |                                                     |
+| 6        | Diode 1N4148 SOD-123           | D1, D2, D3, D4, D5, D6 |                  |                                                     |
 
 
 
