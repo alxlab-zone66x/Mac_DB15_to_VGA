@@ -10,8 +10,8 @@ Dip Switch Settings](docs/manuals)
 
 The newest versions of the adapter, v1.2, come in 3 flavors now. 
 
-**TH** is all through-hole components like v1.0.
-**MX** has SMD diodes. The rest are through-hole components.
+**TH** is all through-hole components like v1.0. \
+**MX** has SMD diodes. The rest are through-hole components. \
 **SM** has SMD diodes and DIP switches. The rest are through-hole components.
 
 
