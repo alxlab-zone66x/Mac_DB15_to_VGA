@@ -20,12 +20,12 @@ The newest versions of the adapter, v1.2, come in 3 flavors now.
 
 ### v1.0 TH and v1.2 TH
 
-| Quantity | Description                | Designators            | Product Number   | Datasheet                                                    |
-| :------- | -------------------------- | ---------------------- | ---------------- | ------------------------------------------------------------ |
-| 1        | DB15                       | J1                     | A-DS 15 A/KG-T4S | [pdf](docs/datasheets/J1_ASS_4888_CO.pdf)                    |
-| 1        | HD15                       | J2                     | HD15-SN-25       | [pdf](docs/datasheets/J2_hdxx-sn-25-data-sheet.pdf)          |
-| 2        | Dip switch SPST 8 position | SWA1, SWB1             | DS04-254-1L-08BK | [pdf](docs/datasheets/SWA1_SWB1_ds04-254.pdf)                |
-| 6        | Diode 1N4148 DO-35         | D1, D2, D3, D4, D5, D6 | 1N4148           | [pdf](docs/datasheets/D1_D2_D3_D4_D5_D6_1N914_D-2309448.pdf) |
+| Quantity | Description                | Designators            | Product Number   | Datasheet                                                    | LCSC/JLCPCB Equivalent |
+| :------- | -------------------------- | ---------------------- | ---------------- | ------------------------------------------------------------ | -------------- |
+| 1        | DB15                       | J1                     | A-DS 15 A/KG-T4S | [pdf](docs/datasheets/J1_ASS_4888_CO.pdf)                    | [C77837](https://www.lcsc.com/product-detail/_CONNFLY-Elec-_C77837.html) |
+| 1        | HD15                       | J2                     | HD15-SN-25       | [pdf](docs/datasheets/J2_hdxx-sn-25-data-sheet.pdf)          | [C75754](https://www.lcsc.com/product-detail/_CONNFLY-Elec-_C75754.html) |
+| 2        | Dip switch SPST 8 position | SWA1, SWB1             | DS04-254-1L-08BK | [pdf](docs/datasheets/SWA1_SWB1_ds04-254.pdf)                | [C99413](https://www.lcsc.com/product-detail/_DongGuan-KINGTEK-Industrial-Co-LTD-_C99413.html) |
+| 6        | Diode 1N4148 DO-35         | D1, D2, D3, D4, D5, D6 | 1N4148           | [pdf](docs/datasheets/D1_D2_D3_D4_D5_D6_1N914_D-2309448.pdf) | [C14538](https://www.lcsc.com/product-detail/_ST-Semtech-_C14538.html) |
 
 ### v1.2 MX
 
