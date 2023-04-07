@@ -20,7 +20,7 @@ The newest versions of the adapter, v1.2, come in 3 flavors now.
 
 ### v1.0 TH and v1.2 TH
 
-| Quantity | Description                | Designators            | Product Number   | Datasheet                                                    | LCSC/JLCPCB Equivalent |
+| Quantity | Description                | Designators            | Product Number   | Datasheet                                                    | LCSC Equivalent |
 | :------- | -------------------------- | ---------------------- | ---------------- | ------------------------------------------------------------ | -------------- |
 | 1        | DB15                       | J1                     | A-DS 15 A/KG-T4S | [pdf](docs/datasheets/J1_ASS_4888_CO.pdf)                    | [C77837](https://www.lcsc.com/product-detail/_CONNFLY-Elec-_C77837.html) |
 | 1        | HD15                       | J2                     | HD15-SN-25       | [pdf](docs/datasheets/J2_hdxx-sn-25-data-sheet.pdf)          | [C75754](https://www.lcsc.com/product-detail/_CONNFLY-Elec-_C75754.html) |
