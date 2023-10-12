@@ -346,7 +346,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "Mac DB15 to VGA TH v1.1.kicad_pro",
+    "filename": "Mac DB15 to VGA SM v1.2.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -425,7 +425,7 @@
   },
   "sheets": [
     [
-      "503d49cb-83fb-4006-a8b5-2a7346f5dcbc",
+      "0ef8ba32-d4e8-4d2b-b6dd-ffa014de9e85",
       ""
     ]
   ],

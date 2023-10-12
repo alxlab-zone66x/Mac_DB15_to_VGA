@@ -49,7 +49,9 @@
         }
       },
       "diff_pair_dimensions": [],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        "courtyards_overlap|135161999|93292001|00000000-0000-0000-0000-0000619550c4|00000000-0000-0000-0000-00006195532d"
+      ],
       "meta": {
         "filename": "board_design_settings.json",
         "version": 2
@@ -346,7 +348,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "Mac DB15 to VGA TH v1.1.kicad_pro",
+    "filename": "Mac DB15 to VGA TH v1.2.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -425,7 +427,7 @@
   },
   "sheets": [
     [
-      "503d49cb-83fb-4006-a8b5-2a7346f5dcbc",
+      "ddf22df6-5864-443b-8c42-4910cb155b55",
       ""
     ]
   ],
